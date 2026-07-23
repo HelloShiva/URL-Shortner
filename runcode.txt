@@ -1,0 +1,5 @@
+cd "C:\Users\ASUS\OneDrive\Desktop\c++ project"
+Compile the program:
+g++ main.cpp -std=c++17 -Wall -Wextra -o url_shortener.exe -lws2_32
+Run the program
+.\url_shortener.exe
