@@ -97,10 +97,6 @@ Paste the generated short URL into a browser while the program is running to see
 - Add click-analytics per short code
 - Cross-platform networking (replace Winsock with a portable socket library)
 
-## Acknowledgements
-
-Concept adapted from GeeksforGeeks' URL shortening design articles, built as part of the **DSA Accelerator Program: From Logic Building to Interview Ready**, School of Computer Application, Lovely Professional University.
-
 ## License
 
 This project is for educational purposes as part of a DSA mini project submission.
